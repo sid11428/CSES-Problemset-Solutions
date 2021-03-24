@@ -1,0 +1,24 @@
+CP PRACTICES for being sonic---
+1)this is what every cp code should begin with-
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+// solution comes here
+}
+
+2)use "\n" instead of endl it saves time 
+
+3)modulo 10^9 +  7 this shit to control int out of range stuff
+for example we calculate factorial of a number-
+    long long x = 1;
+    for (int i = 2; i <= n; i++) {
+    x = (x*i)%m;
+   }
+    cout << x%m << "\n";
+
+4)typedef long long ll;
+typedef makes u write long stuff into smaller stuff to save time.
+
+long long x = 1; is bit long to write but ll x=1; is not. 
+
+5)
