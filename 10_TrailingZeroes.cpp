@@ -10,3 +10,5 @@ int main()
     cout << count;
     return 0;
 }
+
+//doesnot need any explanation basic maths

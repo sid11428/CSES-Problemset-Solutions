@@ -34,3 +34,5 @@ int main()
     }
     return 0;
 }
+
+//this question might look hard but the only thing one needs to do to solve it is identify the pattern for the numbers
